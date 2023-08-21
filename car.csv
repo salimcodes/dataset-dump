@@ -1,4 +1,4 @@
-year,km_driven,petrol,manual,FirstOwner,seats,selling_price
+age,km_driven,petrol,manual,FirstOwner,seats,selling_price
 7,145500,0,1,1,5.0,12042.0
 7,120000,0,1,0,5.0,9882.0
 15,140000,1,1,0,5.0,4266.0
